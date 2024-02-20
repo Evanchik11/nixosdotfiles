@@ -34,24 +34,30 @@
     # (pkgs.writeShellScriptBin "my-hello" ''
     #   echo "Hello, ${config.home.username}!"
     # '')
-
+    # Gaming
    lutris
    heroic
-   spotify
-   discord
-   obsidian
    rpcs3
    gamemode
    mangohud
    goverlay
+   #Music
+   spotify
+   #Chat
+   discord
+   #Productivty
+   obsidian
+   libreoffice
+   #Coding
+   lunarvim
+   vscodium
+   #Random
    neofetch
    qemu
    nerdfonts
    git
    ripgrep
    kitty
-   lunarvim
-   vscodium
   ];
 
     # Zsh
